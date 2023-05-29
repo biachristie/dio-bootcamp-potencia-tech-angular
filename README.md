@@ -45,7 +45,7 @@ II. Primeiras páginas interativas com JavaScript
 * Criando um projeto com HTML/CSS para listagem de Pokémon ✔️
 * Dominando o protocolo HTTP e integrando com a PokeAPI ✔️
 * **Desafio de Projeto**: [Construindo uma Pokédex com Javascript](https://github.com/biachristie/javascript-pokedex) ✔️
-* **Desafio de Projeto**: Criando seu currículo online com HTML e GitHub Pages
+* **Desafio de Projeto**: [Criando seu currículo online com HTML e GitHub Pages](https://github.com/biachristie/html-cv)
 
 <br>
 
